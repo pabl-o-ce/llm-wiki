@@ -1,8 +1,6 @@
 {
-  "index": {
-    "title": "Introduction"
-  },
-  "models": "Models",
+  "index": "Introduction",
+  "models": "Models (A Folder)",
   "about": {
     "title": "About",
     "type": "page"
